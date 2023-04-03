@@ -14,5 +14,9 @@ int main(){
     printf("Add:%d\nMinus:%d\nMultiply:%d\nDivided:%.2f\nRemainder:%d\nBool %d",sum,min,mlt,div,rem,t);
 
 
+        int x = 5/2;
+        
+        printf("%d xerman\n",x);
+
     return 0;
 }
